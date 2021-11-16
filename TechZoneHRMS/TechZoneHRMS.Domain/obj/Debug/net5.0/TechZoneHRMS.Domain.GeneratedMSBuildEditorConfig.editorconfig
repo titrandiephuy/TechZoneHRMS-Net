@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TechZoneHRMS.Domain
-build_property.ProjectDir = D:\TechZone-HRMS\TechZoneHRMS\TechZoneHRMS.Domain\
+build_property.ProjectDir = D:\FinalProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\
