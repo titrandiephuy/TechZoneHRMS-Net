@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj": {}
+    "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj": {}
   },
   "projects": {
-    "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj": {
+    "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
+        "projectUniqueName": "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
         "projectName": "TechZoneHRMS.Domain",
-        "projectPath": "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\obj\\",
+        "projectPath": "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

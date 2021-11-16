@@ -22,3 +22,15 @@ D:\TechZone-HRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.
 D:\TechZone-HRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.dll
 D:\TechZone-HRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\ref\TechZoneHRMS.Domain.dll
 D:\TechZone-HRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.pdb
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\bin\Debug\net5.0\TechZoneHRMS.Domain.deps.json
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\bin\Debug\net5.0\TechZoneHRMS.Domain.dll
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\bin\Debug\net5.0\ref\TechZoneHRMS.Domain.dll
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\bin\Debug\net5.0\TechZoneHRMS.Domain.pdb
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.csproj.AssemblyReference.cache
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.AssemblyInfoInputs.cache
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.AssemblyInfo.cs
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.csproj.CoreCompileInputs.cache
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.dll
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\ref\TechZoneHRMS.Domain.dll
+D:\HRMSProject\TechZoneHRMS\TechZoneHRMS\TechZoneHRMS.Domain\obj\Debug\net5.0\TechZoneHRMS.Domain.pdb
