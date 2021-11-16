@@ -28,7 +28,7 @@ namespace TechZoneHRMS.API.Controllers
 
         [HttpGet]
         [Route("{employeeId}")]
-        public async Task<EmployeeDetail> GetEmployeeById(int employeeId)
+        public async Task<FullEmployeeDetail> GetEmployeeById(int employeeId)
         {
             return await employeeService.GetEmployeeById(employeeId);
         }

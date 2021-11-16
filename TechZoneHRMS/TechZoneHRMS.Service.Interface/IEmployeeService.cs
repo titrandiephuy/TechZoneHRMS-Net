@@ -12,7 +12,7 @@ namespace TechZoneHRMS.Service.Interface
         Task<List<FullEmployeeDetail>> GetAllEmployee();
         Task<CreateEmployee> CreateEmployee(EmployeeDetail employeeDetail);
         Task<EditEmployee> EditEmployee(EmployeeDetail employeeDetail);
-        Task<EmployeeDetail> GetEmployeeById(int employeeId);
+        Task<FullEmployeeDetail> GetEmployeeById(int employeeId);
         Task<ChangeStatusEmployee> ChangeStatusEmployee(int employeeId);
     }
 }
