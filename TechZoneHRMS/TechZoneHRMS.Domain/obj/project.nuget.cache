@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R4B9Ie6Zdv7l1t1e9sgM9XvlZLKU9b0eRfjIh3XqIN2L0zxdLJhVMKHq/FTtAdOxkMYyVaE7x3Kvcd+W07A4MA==",
+  "dgSpecHash": "Gz3j3o/9sQAgs/33y/dqSqRhjhB52CJNUwdJWtTyumia0rgZ5uvRFabqmID6iW3CZE5ruBJqXLAMYvC1rPtsWg==",
   "success": true,
-  "projectFilePath": "D:\\TechZone-HRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
+  "projectFilePath": "D:\\HRMSProject\\TechZoneHRMS\\TechZoneHRMS\\TechZoneHRMS.Domain\\TechZoneHRMS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

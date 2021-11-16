@@ -54,7 +54,7 @@ namespace TechZoneHRMS.Service.Implement
             var result = new CreateDepartment()
             {
                 Success = false,
-                Message = "wrong"
+                Message = "Error"
             };
             try
             {
