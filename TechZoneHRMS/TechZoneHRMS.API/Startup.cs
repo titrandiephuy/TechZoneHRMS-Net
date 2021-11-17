@@ -25,6 +25,7 @@ namespace TechZoneHRMS.API
             services.AddControllers();
             services.AddScoped<IDepartmentService, DepartmentService>();
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IInchangeService, InchangeServices>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "TechZoneHRMS.API", Version = "v1" });

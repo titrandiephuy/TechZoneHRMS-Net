@@ -83,6 +83,15 @@ namespace TechZoneHRMS.Service.Implement
                     );
                 if (createResult > 0)
                 {
+                    DynamicParameters dynamic = new DynamicParameters();
+                    dynamic.Add("@employeeId", createResult);
+                    await SqlMapper.ExecuteAsync
+                        (
+                            cnn: connect,
+                            sql: "Sp_Position",
+                            param: dynamic,
+                            commandType: CommandType.StoredProcedure
+                        );
                     result.Success = true;
                     result.Message = "Employee create successfully";
                 }
