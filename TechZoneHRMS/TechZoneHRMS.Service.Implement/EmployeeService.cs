@@ -151,11 +151,11 @@ namespace TechZoneHRMS.Service.Implement
                 return result.ToList();
         }
 
-        public async Task<EmployeeDetail> GetEmployeeById(int employeeId)
+        public async Task<FullEmployeeDetail> GetEmployeeById(int employeeId)
         {
             DynamicParameters dynamicParameters = new DynamicParameters();
             dynamicParameters.Add("@EmployeeId", employeeId);
-            return await SqlMapper.QueryFirstOrDefaultAsync<EmployeeDetail>
+            return await SqlMapper.QueryFirstOrDefaultAsync<FullEmployeeDetail>
                 (
                     cnn: connect, sql: "Sp_GetEmployeeById",param: dynamicParameters, commandType: CommandType.StoredProcedure
                 );
